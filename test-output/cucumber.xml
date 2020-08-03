@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="42.691532">
+<testcase classname="Generate Insurance Quote" name="Propose Insurnace Quote for User" time="42.691532">
+<system-out><![CDATA[Given User is in home page..................................................passed
+When User Clicks on Angebote link...........................................passed
+Then User Clicks on privathaftpliflich option and proceeds by clicking on other radio buttons.passed
+When User Clicks on Zum angebote and selects a liability and click on finish now.passed
+Then Checout page is opened and user enters email and passwd and click on register button.passed
+Then User Enter personal info and proceeds..................................passed
+Then User Enter IBAN and accept TNC checkbox and proceeds...................passed
+Then User clicks on next and navigate to the final quote page...............passed
+]]></system-out>
+</testcase>
+</testsuite>
